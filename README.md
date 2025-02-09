@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Zayed and I'm a computer science student in my second year.</h2>
+<h2 align="center">Hello, I'm Zayed, a second-year computer science student based in London, UK. </h2>
+<h4 align="center">I've always had a passion for programming, whether it's working with C++ for performance-critical tasks or creating dynamic web apps with JavaScript, React, HTML, and CSS. I'm constantly exploring new ways to solve problems and bring ideas to life through code.</h4>
 
 ###
 
